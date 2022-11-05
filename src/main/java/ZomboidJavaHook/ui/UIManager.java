@@ -105,6 +105,7 @@ Project Zomboid Java Hook:
             "D:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/",
             "C:/Program Files/Steam/steamapps/common/ProjectZomboid/",
             "D:/Program Files/Steam/steamapps/common/ProjectZomboid/",
+            "D:/SteamLibrary/steamapps/common/ProjectZomboid",
             System.getProperty("user.home") + "/.local/share/steam/steamapps/common/ProjectZomboid/projectzomboid",
             System.getProperty("user.home") + "/Library/Application Support/Steam/steamapps/common/Project Zomboid.app/Contents/Java",
     };
